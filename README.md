@@ -13,8 +13,8 @@ I am a Business intelligence engineer who graduated from the University of Scien
 
 Currently I am working on building my data protfolio and web develoment:
 
-  [Data](https://github.com/The-Lite/Data) 
-  [Web developement](https://github.com/The-Lite/Web-Development) 
+ - [Data](https://github.com/The-Lite/Data) 
+ - [Web developement](https://github.com/The-Lite/Web-Development) 
 
 
 
@@ -27,7 +27,7 @@ Currently I am working on building my data protfolio and web develoment:
 
 
 
-[<img src="https://img.icons8.com/color/50/000000/github--v3.png"/>](https://github.com/The-Lite)  [<img src="https://img.icons8.com/ios/50/000000/instagram-new--v2.png"/>](https://www.linkedin.com/in/https://www.linkedin.com/in/souhil-zaida//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'/>](https://www.instagram.com/https://www.instagram.com/souhil_zaida/?hl=fr/)  [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC2NSYYh4RUippMzfFjs7QlA)  
+[<img src="https://img.icons8.com/color/50/000000/github--v3.png"/>](https://github.com/The-Lite)  [<img src="https://img.icons8.com/dusk/48/000000/linkedin--v2.png"/>](https://www.linkedin.com/in/https://www.linkedin.com/in/souhil-zaida//)  [<img src="https://img.icons8.com/color/64/000000/instagram-new--v2.png"/>](https://www.instagram.com/https://www.instagram.com/souhil_zaida/?hl=fr/)  [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC2NSYYh4RUippMzfFjs7QlA)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=The-Lite)](https://github.com/ryo-ma/github-profile-trophy)
 
