@@ -13,7 +13,7 @@ I am a Business intelligence engineer who graduated from the University of Scien
 
 Currently I am working on building my data protfolio and web develoment:
 
-  data(https://github.com/The-Lite) 
+  [data](https://github.com/The-Lite) 
 
 
 
