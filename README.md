@@ -11,7 +11,7 @@ I am a Business intelligence engineer who graduated from the University of Scien
 - 😄 Pronouns: Lite 
 
 
-Currently I am working on building my data protfolio and web develoment:
+Currently I am working on building my data and web develoment protfolio: 
 
  - [Data](https://github.com/The-Lite/Data) 
  - [Web developement](https://github.com/The-Lite/Web-Development) 
