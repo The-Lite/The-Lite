@@ -5,7 +5,7 @@
 I am a Business intelligence engineer who graduated from the University of Science and Technology Houari Boumediene. I have a passion for data and game development, I use Django, Django-rest, and Svelte for web development. 
 
 
-#### Skills: Svelte / Django / Django-Rest / Power BI / SSAS / SSIS / Apache-Superset / Web Scraping
+#### Skills: Svelte / Django / Django-Rest / Power BI / SSAS / SSIS / Apache-Superset / Web Scraping / SQL SERVER / POSTGRES / ORACLE / MY SQL 
 
 - 📫 How to reach me: zaidasouhil@gmail.com 
 - 😄 Pronouns: Lite 
