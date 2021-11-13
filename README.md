@@ -13,8 +13,8 @@ I am a Business intelligence engineer who graduated from the University of Scien
 
 Currently I am working on building my data and web develoment protfolio: 
 
- - [Data](https://github.com/The-Lite/Data) 
- - [Web developement](https://github.com/The-Lite/Web-Development) 
+ - [Data Protfolio](https://github.com/The-Lite/Data) 
+ - [Web developement Protfolio](https://github.com/The-Lite/Web-Development) 
 
 
 
