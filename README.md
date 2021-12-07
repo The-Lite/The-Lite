@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Souhil Zaida
 #### I am a data engineer and web developer
 ![I am a data science and web developer](https://github.com/The-Lite/The-Lite/blob/main/rdm.png)
+----
 
 I am a Business intelligence engineer who graduated from the University of Science and Technology Houari Boumediene. I have a passion for data and game development, I use Django, Django-rest, and Svelte for web development. 
 
