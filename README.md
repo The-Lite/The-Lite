@@ -42,7 +42,7 @@ I am learning :
   <br>
   <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-   <img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/oracle/oracle-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
 
   <br>
   <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
