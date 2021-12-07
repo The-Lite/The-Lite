@@ -24,13 +24,14 @@ I am learning :
 - Cloud Native & Cloud Computing
 - Data Pipeline
 
+----
 
  ### I generally work with  :
  
 <p>
   <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   <br>
@@ -38,16 +39,20 @@ I am learning :
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
   <img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/svelte.svg">
   <img width="5%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg">
-  <img width="5%" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/workbox.svg">
   <br>
   <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+   <img width="10%" src=" https://www.vectorlogo.zone/util/preview.html?image=/logos/oracle/oracle-ar21.svg">
+
   <br>
   <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  
+ 
   <br>
-  
+  <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/talend/talend-ar21.svg">
+  <br>
   <img width="5%" src="https://github.com/detain/svg-logos/blob/master/svg/visual-studio-code.svg">
   <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png">
   <img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg">
